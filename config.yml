@@ -1,7 +1,7 @@
 baseurl: "www.afmun25.onrender.com"
 title: "AYDEM SCIENCE HIGH SCHOOL MODEL UNITED NATIONS"
 canonifyurls: true
-theme: "afmun"
+theme: "hugo-conference"
 
 GoogleAnalytics: ""
 
