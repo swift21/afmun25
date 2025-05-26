@@ -609,9 +609,36 @@ nav {
 }
 
 @media only screen and (max-width: 500px) {
+  .wrapper {
+    padding: 0 10px; /* or 0 if you prefer */
+  }
+
   .header {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .header-photo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 0.5em;
+    object-fit: cover;
+  }
+
+  .logo-name {
+    display: block;
+    width: auto;
+    margin: 0 auto 0.3em;
+    text-align: center;
+  }
+
+  .logo-link {
+    display: block;
+    width: auto;
+    margin: 0 auto 0.3em;
+    text-align: center;
   }
 }
 
@@ -912,22 +939,5 @@ nav {
 @media only screen and (max-width: 1024px) {
   .header {
     background-size: auto 100%;
-  }
-}
-@media only screen and (max-width: 480px) {
-  /* speakers */
-  .speaker-photo .photo {
-    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.07);
-  }
-  .speech-title {
-    font-weight: bolder;
-  }
-  .speech-time {
-    color: #2b2b2b;
-    background: transparent;
-    font-weight: bolder;
-  }
-  .github-link {
-    display: none;
   }
 }
