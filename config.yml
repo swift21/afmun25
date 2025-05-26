@@ -77,28 +77,28 @@ params:
   Schedule:
 
     - name: "The United Nations Environment Programme (UNEP) is responsible for coordinating responses to environmental issues within the United Nations system. Its mandate is to provide leadership, deliver science and develop solutions on a wide range of issues, including climate change, the management of marine and terrestrial ecosystems, and green economic development. The organization also develops international environmental agreements; publishes and promotes environmental science and helps national governments achieve environmental targets."
-      photo: "/img/unep.png"
+      photo: "/img/unep.jpeg"
       bio: "Under Secretary General: Ece Zora"
       agenda: "Agenda Item: Water Pollution and Threats to Marine Life"
       presentation:
         title: "United Nations Environment Programme (UNEP)"
 
     - name: "The United Nations Children’s Fund commonly known as UNICEF, was created on 1946 to provide immediate aid to mothers and children around the world after the second World War. UNICEF relies on voluntary contributions from private donors and governments. The organization nowadays, mainly works on improving children’s rights and providing humanitarian aid to children worldwide. Some of activity include improving education, enhancing childhood and maternal nutrition, providing emergency aid to those in conflict areas, improving sanitation."
-      photo: "/img/unicef.png"
+      photo: "/img/unicef.jpeg"
       bio: "Under Secretary General: Cansu Omurcalı"
       agenda: "Agenda Item: Developing Strategies to Combat Child Labour in Underdeveloped and Developing Countries"
       presentation:
         title: "United Nations Children's Fund (UNICEF)"
 
     - name: "The United Nations Economic and Social Council (ECOSOC) is the main mechanism that ensures coordination and supervision of activities in the economic, social, environmental and other related areas in the United Nations (UN) system. With this mechanism, the UN ensures harmony between the goals related to the three dimensions of sustainable development. The main functions of the council are to ensure coordination and dialogue among UN bodies on economic and social development issues, to conduct policy review and make recommendations, to ensure the implementation of international development goals adopted at major UN Conferences and Summits, including the Sustainable Development Goals, to produce solutions to economic, social and health problems occurring at the international level, and to promote respect for human rights and fundamental freedoms."
-      photo: "/img/ecosoc.png"
+      photo: "/img/ecosoc.jpeg"
       bio: "Under Secretary General: Yiğit Eren Durmaz"
       agenda: "Agenda Item: Providing Vital Supplies to Remote Locations"
       presentation:
         title: "United Nations Economic and Social Council (ECOSOC)" 
 
     - name: "The world was developing in every aspect. In the darkness of the Middle Ages, Europe was unable to follow these developments and could not look favorably on innovations due to the pressures of the Church. The Church was very disturbed by these developments and especially by the fact that these developments were being exposed by the Muslims. Using their religious power, they started to oppress and revolt the people. They built great armies. They sent them to Spain, Anatolia and the Arabian Peninsula. Thus began the Crusades that would last for 200 years."
-      photo: "/img/jcc.png"
+      photo: "/img/jcc.jpeg"
       bio: "Under Secretary General: Birkan Hüseyinoğlu"
       ass: "Academic Assistant: Abdullah Çetin"
       agenda: "Agenda Item: Open Agenda"
@@ -106,7 +106,7 @@ params:
         title: "Joint Crisis Committee (JCC): The Third Crusade"
 
     - name: "The Commission on Crime Prevention and Criminal Justice (CCPCJ) is a part of the United Nations. It was created in 1992. The commission works to help countries fight crime, improve justice systems, and make the world safer. It focuses on problems like drug trafficking, corruption, human trafficking, and cybercrime. CCPCJ also gives advice to countries and helps them work together to create better laws and policies."
-      photo: "/img/ccpcj.png"
+      photo: "/img/ccpcj.jpeg"
       bio: "Under Secretary General: Aslı Ela Kemaloğlu"
       ass: "Under Secretary General: Şevval Acar"
       agenda: "Agenda Item 1: Combating the Global Expansion of Transnational Organized Crime Network"
@@ -115,7 +115,7 @@ params:
         title: "Commission on Crime Prevention and Criminal Justice (CCPCJ)"
 
     - name: "Türkiye Cumhuriyeti, kuruluşundan bu yana çeşitli badireler atlatmış ve tarihinin her döneminde iç ve dış düşmanlarla mücadele etmiştir. Türk milleti ve devleti her zaman iç karışıklıklar ve dış müdahaleler ile uğraşmış, zaman ve enerjisini devlet ve millet faydasına olmayan işlere heba etmiştir. Takvimler 1990'ları gösterdiğinde Türkiye en zor zamanlarını yaşıyordu. Sürekli değişen koalisyon hükümetleri, müdahaleye hazır bir ordu, irtica, bölücü örgüt faaliyetleri, laiklik karşıtı örgütler ve daha niceleri... Bu kriz komitesindeki delegeler olarak, Türkiye'yi bu en zor zamanda yönetmek, içine düştüğü bataklıktan kurtarmak sizin elinizde, kemerlerini bağlayın!"
-      photo: "/img/turkce.png"
+      photo: "/img/turkce.jpeg"
       bio: "Komite Müsteşarı: Cevdet Şahin"
       ass: "Akademik Asistan: Deniz Bilgiç"
       agenda: "Gündem Maddesi: Serbest Gündem"
