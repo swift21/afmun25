@@ -1,0 +1,5 @@
+---
+title: "AYDEM SCIENCE HIGH SCHOOL MODEL UNITED NATIONS"
+---
+
+# Welcome to AFMUN 2025
