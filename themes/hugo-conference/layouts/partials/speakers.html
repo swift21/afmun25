@@ -1,0 +1,43 @@
+<h2 class="section-title">{{ .titles.speakers }}</h2>
+<br>
+<ul class="speakers-list">
+{{ range $speaker := (where .schedule "presentation" "ne" nil) }}
+  <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+    
+    {{ with .photo }}
+      <div class="speaker-photo-container">
+        <img class="speaker-photo" src="{{ . }}" alt="{{ $speaker.presentation.title }}" itemprop="image">
+      </div>
+    {{ end }}
+
+    <div class="speaker-text">
+      <h1 class="speech-title">
+        <span>{{ .presentation.title }}</span>
+      </h1>
+
+      <h2 class="speakers-name">{{ .name }}</h2>
+      <br>
+
+      <h2 class="speakers-bio">
+         <span>{{ .agenda }}</span>
+      </h2>
+      <br>
+
+      {{ with .agenda2 }}
+      <h2 class="speakers-bio">
+        <span>{{ . }}</span><br>
+      </h2>
+      {{ end }}
+
+      <h2 class="speakers-bio">
+         <span>{{ .bio }}</span>
+      </h2>
+      <br>
+
+      <h2 class="speakers-bio">
+         <span>{{ .ass }}</span>
+      </h2>
+    </div>
+  </li>
+{{ end }}
+</ul>
