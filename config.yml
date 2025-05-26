@@ -5,6 +5,9 @@ theme: "hugo-conference"
 
 GoogleAnalytics: ""
 
+disableKinds:
+  - taxonomy
+
 params:
   # Conference info
   Name: "AFMUN'25"
